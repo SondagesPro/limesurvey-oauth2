@@ -13,6 +13,7 @@
     </metadata>
 
     <compatibility>
+        <version>7</version>
         <version>6</version>
         <version>5</version>
         <version>4</version>

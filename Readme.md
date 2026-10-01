@@ -81,7 +81,8 @@ For example :
 
 This plugin was tested with
 
-- A recent version v6.4.3 (PHP 8.1)
+- A recent version v7.0.9 (PHP 8.5)
+- v6.4.3 (PHP 8.1)
 - the latest stable release v5.2.5
 - the latest LTS release v3.27.28
 
